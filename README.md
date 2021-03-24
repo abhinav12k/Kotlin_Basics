@@ -4,9 +4,12 @@ This repo is basically for anyone who wants to learn Kotlin and actively start u
 ## Important_Links
 - [Null Safety](https://kotlinlang.org/docs/reference/null-safety.html)
 - [Coroutines](https://blog.mindorks.com/mastering-kotlin-coroutines-in-android-step-by-step-guide)
+- [Scope Functions](https://kotlinlang.org/docs/scope-functions.html)
+- [Delegates](https://kotlinlang.org/docs/delegation.html)
 
 ## Android Specific Topics
 - [Moshi](https://blog.mindorks.com/moshi-json-library-for-android)
+
 
 ### References
 - [Koltin Official Website](https://kotlinlang.org/docs/reference/)   
